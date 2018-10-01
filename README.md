@@ -8,11 +8,21 @@
 ## Week 1
 
 - 認識91APP資料
-- [week1](https://github.com/kuosheena2/CSX/tree/master/week_1)
+- [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTGe5neAcFnEBOwHOIuNdhYROTjGFNd0fMi3VzXYhRpdvhsyHnRjFNSVr91laQvYNDmAdoiTbHtz4DK/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [week1檔案](https://github.com/kuosheena2/CSX/tree/master/week_1/week_1_first_meet.ipynb)
 
-# Week 2
+## Week 2
 
-- crawler
-- [week2](https://github.com/kuosheena2/CSX/tree/master/week_2)
+- 爬蟲Crawler
+- [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSDsg-EWsuITt5xV2VKmXpM5r70krVJf6zrh_6IeUpAhGZyRTF8kw3c0rizUHzMNtlLMQit-oQHB4vj/pub?start=false&loop=false&delayms=3000&slide=id.g4273d10c0f_0_0)
+- [week2檔案](https://github.com/kuosheena2/CSX/tree/master/week_2/getClimateAndPttPush.ipynb)
 - 利用BeautifulSoup爬ptt movie板資訊
 - 把銷售資料加上天氣，溫度和ptt的movie板推文數資料
+
+## Week 3
+
+- 資料視覺化
+- [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vS9pgNN-SvlN6dxj8A9bkdDTCwrEp-DBCLZtI0VqPW21Fu5imFYh9aTeli7lbuf5LeAHhWMKyoEvjMI/pub?start=false&loop=false&delayms=3000&slide=id.g4273d10c0f_0_0)
+- [week3檔案](https://github.com/kuosheena2/CSX/tree/master/week_3/dataVisualization.ipynb)
+- 畫出星期幾v.s.銷售量的圖
+- 定義特殊族群，並畫出此族群隨時間變化的消費狀況
