@@ -2,3 +2,5 @@
 .vscode/
 *.pkl
 *.pdf
+digits.ipynb
+mnist/
