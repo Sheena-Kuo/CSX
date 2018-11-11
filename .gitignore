@@ -4,3 +4,4 @@
 *.pdf
 digits.ipynb
 mnist/
+.ipynb_checkpoints
